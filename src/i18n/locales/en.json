@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "The Club Vault",
+    "subtitle": "Manage Your Travel Memberships",
+    "footer": "© {{year}} The Club Vault. All rights reserved."
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "addMembership": "Add Membership",
+    "settings": "Settings",
+    "language": "Language"
+  },
+  "dashboard": {
+    "title": "Your Memberships",
+    "search": "Search memberships...",
+    "empty": "No memberships found",
+    "addFirst": "Add your first membership",
+    "filterAll": "All",
+    "filterAirline": "Airlines",
+    "filterHotel": "Hotels",
+    "filterCruise": "Cruise Lines",
+    "filterOther": "Other"
+  },
+  "membership": {
+    "add": "Add Membership",
+    "edit": "Edit Membership",
+    "view": "View Membership",
+    "delete": "Delete Membership",
+    "name": "Membership Name",
+    "number": "Membership Number",
+    "type": "Membership Type",
+    "tier": "Tier/Status Level",
+    "notes": "Notes",
+    "website": "Website",
+    "save": "Save Membership",
+    "cancel": "Cancel",
+    "deleteConfirm": "Are you sure you want to delete this membership?",
+    "deleteYes": "Yes, Delete",
+    "deleteNo": "No, Keep It",
+    "airline": "Airline",
+    "hotel": "Hotel",
+    "cruise": "Cruise Line",
+    "other": "Other"
+  }
+}

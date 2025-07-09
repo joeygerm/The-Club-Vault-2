@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "The Club Vault",
+    "subtitle": "Gérez vos Adhésions de Voyage",
+    "footer": "© {{year}} The Club Vault. Tous droits réservés."
+  },
+  "navigation": {
+    "dashboard": "Tableau de Bord",
+    "addMembership": "Ajouter une Adhésion",
+    "settings": "Paramètres",
+    "language": "Langue"
+  },
+  "dashboard": {
+    "title": "Vos Adhésions",
+    "search": "Rechercher des adhésions...",
+    "empty": "Aucune adhésion trouvée",
+    "addFirst": "Ajoutez votre première adhésion",
+    "filterAll": "Tous",
+    "filterAirline": "Compagnies Aériennes",
+    "filterHotel": "Hôtels",
+    "filterCruise": "Croisières",
+    "filterOther": "Autres"
+  },
+  "membership": {
+    "add": "Ajouter une Adhésion",
+    "edit": "Modifier l'Adhésion",
+    "view": "Voir l'Adhésion",
+    "delete": "Supprimer l'Adhésion",
+    "name": "Nom de l'Adhésion",
+    "number": "Numéro d'Adhésion",
+    "type": "Type d'Adhésion",
+    "tier": "Niveau/Statut",
+    "notes": "Notes",
+    "website": "Site Web",
+    "save": "Enregistrer l'Adhésion",
+    "cancel": "Annuler",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer cette adhésion?",
+    "deleteYes": "Oui, Supprimer",
+    "deleteNo": "Non, Conserver",
+    "airline": "Compagnie Aérienne",
+    "hotel": "Hôtel",
+    "cruise": "Croisière",
+    "other": "Autre"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "The Club Vault",
+    "subtitle": "Gestiona tus Membresías de Viaje",
+    "footer": "© {{year}} The Club Vault. Todos los derechos reservados."
+  },
+  "navigation": {
+    "dashboard": "Panel Principal",
+    "addMembership": "Añadir Membresía",
+    "settings": "Configuración",
+    "language": "Idioma"
+  },
+  "dashboard": {
+    "title": "Tus Membresías",
+    "search": "Buscar membresías...",
+    "empty": "No se encontraron membresías",
+    "addFirst": "Añade tu primera membresía",
+    "filterAll": "Todos",
+    "filterAirline": "Aerolíneas",
+    "filterHotel": "Hoteles",
+    "filterCruise": "Cruceros",
+    "filterOther": "Otros"
+  },
+  "membership": {
+    "add": "Añadir Membresía",
+    "edit": "Editar Membresía",
+    "view": "Ver Membresía",
+    "delete": "Eliminar Membresía",
+    "name": "Nombre de Membresía",
+    "number": "Número de Membresía",
+    "type": "Tipo de Membresía",
+    "tier": "Nivel/Estado",
+    "notes": "Notas",
+    "website": "Sitio Web",
+    "save": "Guardar Membresía",
+    "cancel": "Cancelar",
+    "deleteConfirm": "¿Estás seguro de que quieres eliminar esta membresía?",
+    "deleteYes": "Sí, Eliminar",
+    "deleteNo": "No, Conservarla",
+    "airline": "Aerolínea",
+    "hotel": "Hotel",
+    "cruise": "Crucero",
+    "other": "Otro"
+  }
+}

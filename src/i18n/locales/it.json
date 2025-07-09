@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "The Club Vault",
+    "subtitle": "Gestisci le Tue Iscrizioni di Viaggio",
+    "footer": "© {{year}} The Club Vault. Tutti i diritti riservati."
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "addMembership": "Aggiungi Iscrizione",
+    "settings": "Impostazioni",
+    "language": "Lingua"
+  },
+  "dashboard": {
+    "title": "Le Tue Iscrizioni",
+    "search": "Cerca iscrizioni...",
+    "empty": "Nessuna iscrizione trovata",
+    "addFirst": "Aggiungi la tua prima iscrizione",
+    "filterAll": "Tutte",
+    "filterAirline": "Compagnie Aeree",
+    "filterHotel": "Hotel",
+    "filterCruise": "Compagnie di Crociera",
+    "filterOther": "Altro"
+  },
+  "membership": {
+    "add": "Aggiungi Iscrizione",
+    "edit": "Modifica Iscrizione",
+    "view": "Visualizza Iscrizione",
+    "delete": "Elimina Iscrizione",
+    "name": "Nome Iscrizione",
+    "number": "Numero Iscrizione",
+    "type": "Tipo di Iscrizione",
+    "tier": "Livello/Status",
+    "notes": "Note",
+    "website": "Sito Web",
+    "save": "Salva Iscrizione",
+    "cancel": "Annulla",
+    "deleteConfirm": "Sei sicuro di voler eliminare questa iscrizione?",
+    "deleteYes": "Sì, Elimina",
+    "deleteNo": "No, Mantieni",
+    "airline": "Compagnia Aerea",
+    "hotel": "Hotel",
+    "cruise": "Compagnia di Crociera",
+    "other": "Altro"
+  }
+}

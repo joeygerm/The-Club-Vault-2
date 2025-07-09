@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "The Club Vault",
+    "subtitle": "Verwalten Sie Ihre Reise-Mitgliedschaften",
+    "footer": "© {{year}} The Club Vault. Alle Rechte vorbehalten."
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "addMembership": "Mitgliedschaft Hinzufügen",
+    "settings": "Einstellungen",
+    "language": "Sprache"
+  },
+  "dashboard": {
+    "title": "Ihre Mitgliedschaften",
+    "search": "Mitgliedschaften suchen...",
+    "empty": "Keine Mitgliedschaften gefunden",
+    "addFirst": "Fügen Sie Ihre erste Mitgliedschaft hinzu",
+    "filterAll": "Alle",
+    "filterAirline": "Fluggesellschaften",
+    "filterHotel": "Hotels",
+    "filterCruise": "Kreuzfahrtlinien",
+    "filterOther": "Andere"
+  },
+  "membership": {
+    "add": "Mitgliedschaft Hinzufügen",
+    "edit": "Mitgliedschaft Bearbeiten",
+    "view": "Mitgliedschaft Anzeigen",
+    "delete": "Mitgliedschaft Löschen",
+    "name": "Mitgliedschaftsname",
+    "number": "Mitgliedschaftsnummer",
+    "type": "Mitgliedschaftstyp",
+    "tier": "Stufe/Status-Level",
+    "notes": "Notizen",
+    "website": "Website",
+    "save": "Mitgliedschaft Speichern",
+    "cancel": "Abbrechen",
+    "deleteConfirm": "Sind Sie sicher, dass Sie diese Mitgliedschaft löschen möchten?",
+    "deleteYes": "Ja, Löschen",
+    "deleteNo": "Nein, Behalten",
+    "airline": "Fluggesellschaft",
+    "hotel": "Hotel",
+    "cruise": "Kreuzfahrtlinie",
+    "other": "Andere"
+  }
+}
