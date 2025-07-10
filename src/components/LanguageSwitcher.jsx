@@ -38,29 +38,29 @@ const LanguageSwitcher = () => {
   return (
     <div className="relative" ref={dropdownRef}>
       <button
-        onClick={toggleDropdown}
-        className="flex items-center text-gray-700 hover:text-primary-600 focus:outline-none"
-        aria-expanded={isOpen}
-        aria-haspopup="true"
-      >
-        <FaGlobe className="mr-1" />
-        <span className="hidden md:inline">{t('navigation.language')}</span>
-      </button>
+  onClick={toggleDropdown}
+  className="flex items-center text-[#F2F2F2] hover:text-[#3399FF] focus:outline-none bg-[#1F1F1F] p-2 rounded-md"
+>
+  <FaGlobe className="mr-1 text-[#3399FF]" />
+  <span className="hidden md:inline">{t('navigation.language')}</span>
+</button>
 
       {isOpen && (
         <div className="dropdown-menu">
           <div className="py-1">
             {languages.map((language) => (
               <button
-                key={language.code}
-                onClick={() => changeLanguage(language.code)}
-                className="dropdown-item flex items-center justify-between w-full"
-              >
-                {language.name}
-                {i18n.language === language.code && (
-                  <FaCheck className="text-primary-600" />
-                )}
-              </button>
+  key={language.code}
+  onClick={() => changeLanguage(language.code)}
+  className={`dropdown-item flex items-center justify-between w-full px-4 py-2 rounded text-[#F2F2F2] hover:bg-[#263A4F] ${
+  i18n.language === language.code ? 'bg-[#3399FF]' : 'bg-[#1F1F1F]'
+}`}
+>
+  {language.name}
+  {i18n.language === language.code && (
+    <FaCheck className="text-[#3399FF]" />
+  )}
+</button>
             ))}
           </div>
         </div>
