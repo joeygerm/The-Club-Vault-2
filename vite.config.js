@@ -2,12 +2,17 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: '0.0.0.0',
     port: 3000,
-    strictPort: false
+    strictPort: false,
+    hmr: {
+      protocol: 'ws',
+      host: 'localhost',
+      port: 3000
+    }
   },
   resolve: {
     alias: {
@@ -16,5 +21,10 @@ export default defineConfig({
   },
   optimizeDeps: {
     include: ['react-i18next', 'i18next', 'i18next-browser-languagedetector']
+  },
+  build: {
+    commonjsOptions: {
+      include: [/node_modules/]
+    }
   }
 })

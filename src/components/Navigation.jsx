@@ -27,8 +27,8 @@ const Navigation = () => {
     <nav className="bg-slate-800 text-white">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-3">
-          <Link to="/" className="flex items-center">
-            <span className="text-xl font-bold text-cyan-400">{t('app.title')}</span>
+          <Link to="/" className="text-xl font-bold text-cyan-400">
+            {t('app.title')}
           </Link>
           
           {/* Desktop Navigation */}

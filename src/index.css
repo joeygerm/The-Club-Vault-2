@@ -49,14 +49,3 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
 }
-.logo {
-  display: block;
-  height: 9rem;
-  max-width: 100%;
-  object-fit: contain;
-}
-@media (max-width: 768px) {
-  .logo {
-    height: 6rem;
-  }
-}
