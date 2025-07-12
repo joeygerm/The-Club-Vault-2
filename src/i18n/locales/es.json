@@ -2,7 +2,8 @@
   "app": {
     "title": "The Club Vault",
     "subtitle": "Gestiona tus Membresías de Viaje",
-    "footer": "© {{year}} The Club Vault. Todos los derechos reservados."
+    "footer": "© {{year}} The Club Vault. Todos los derechos reservados.",
+    "welcome": "Bienvenido a Club Vault"
   },
   "navigation": {
     "dashboard": "Panel Principal",

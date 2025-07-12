@@ -2,7 +2,8 @@
   "app": {
     "title": "The Club Vault",
     "subtitle": "Manage Your Travel Memberships",
-    "footer": "© {{year}} The Club Vault. All rights reserved."
+    "footer": "© {{year}} The Club Vault. All rights reserved.",
+    "welcome": "Welcome to Club Vault"
   },
   "navigation": {
     "dashboard": "Dashboard",
@@ -29,14 +30,14 @@
     "name": "Membership Name",
     "number": "Membership Number",
     "type": "Membership Type",
-    "tier": "Tier/Status Level",
+    "tier": "Tier / Status Level",
     "notes": "Notes",
     "website": "Website",
     "save": "Save Membership",
     "cancel": "Cancel",
     "deleteConfirm": "Are you sure you want to delete this membership?",
     "deleteYes": "Yes, Delete",
-    "deleteNo": "No, Keep It",
+    "deleteNo": "No, Keep",
     "airline": "Airline",
     "hotel": "Hotel",
     "cruise": "Cruise Line",

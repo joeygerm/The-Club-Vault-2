@@ -1,45 +1,46 @@
 {
   "app": {
     "title": "The Club Vault",
-    "subtitle": "Gestisci le Tue Iscrizioni di Viaggio",
-    "footer": "© {{year}} The Club Vault. Tutti i diritti riservati."
+    "subtitle": "Gestisci le Tue Adesioni di Viaggio",
+    "footer": "© {{year}} The Club Vault. Tutti i diritti riservati.",
+    "welcome": "Benvenuto a Club Vault"
   },
   "navigation": {
     "dashboard": "Dashboard",
-    "addMembership": "Aggiungi Iscrizione",
+    "addMembership": "Aggiungi Adesione",
     "settings": "Impostazioni",
     "language": "Lingua"
   },
   "dashboard": {
-    "title": "Le Tue Iscrizioni",
-    "search": "Cerca iscrizioni...",
-    "empty": "Nessuna iscrizione trovata",
-    "addFirst": "Aggiungi la tua prima iscrizione",
+    "title": "Le Tue Adesioni",
+    "search": "Cerca adesioni...",
+    "empty": "Nessuna adesione trovata",
+    "addFirst": "Aggiungi la tua prima adesione",
     "filterAll": "Tutte",
     "filterAirline": "Compagnie Aeree",
     "filterHotel": "Hotel",
-    "filterCruise": "Compagnie di Crociera",
+    "filterCruise": "Linee di Crociera",
     "filterOther": "Altro"
   },
   "membership": {
-    "add": "Aggiungi Iscrizione",
-    "edit": "Modifica Iscrizione",
-    "view": "Visualizza Iscrizione",
-    "delete": "Elimina Iscrizione",
-    "name": "Nome Iscrizione",
-    "number": "Numero Iscrizione",
-    "type": "Tipo di Iscrizione",
-    "tier": "Livello/Status",
+    "add": "Aggiungi Adesione",
+    "edit": "Modifica Adesione",
+    "view": "Visualizza Adesione",
+    "delete": "Elimina Adesione",
+    "name": "Nome Adesione",
+    "number": "Numero Adesione",
+    "type": "Tipo Adesione",
+    "tier": "Livello / Status",
     "notes": "Note",
     "website": "Sito Web",
-    "save": "Salva Iscrizione",
+    "save": "Salva Adesione",
     "cancel": "Annulla",
-    "deleteConfirm": "Sei sicuro di voler eliminare questa iscrizione?",
+    "deleteConfirm": "Sei sicuro di voler eliminare questa adesione?",
     "deleteYes": "Sì, Elimina",
-    "deleteNo": "No, Mantieni",
+    "deleteNo": "No, Conserva",
     "airline": "Compagnia Aerea",
     "hotel": "Hotel",
-    "cruise": "Compagnia di Crociera",
+    "cruise": "Linea di Crociera",
     "other": "Altro"
   }
 }
